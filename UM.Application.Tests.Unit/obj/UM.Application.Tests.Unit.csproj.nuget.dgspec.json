@@ -1,0 +1,421 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application.Tests.Unit\\UM.Application.Tests.Unit.csproj": {}
+  },
+  "projects": {
+    "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\01_Freamework\\01_Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\01_Freamework\\01_Framework.csproj",
+        "projectName": "01_Framework",
+        "projectPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\01_Freamework\\01_Framework.csproj",
+        "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
+        "outputPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\01_Freamework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application.Contract\\UM.Application.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application.Contract\\UM.Application.Contract.csproj",
+        "projectName": "UM.Application.Contract",
+        "projectPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application.Contract\\UM.Application.Contract.csproj",
+        "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
+        "outputPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\01_Freamework\\01_Framework.csproj": {
+                "projectPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\01_Freamework\\01_Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application.Tests.Unit\\UM.Application.Tests.Unit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application.Tests.Unit\\UM.Application.Tests.Unit.csproj",
+        "projectName": "UM.Application.Tests.Unit",
+        "projectPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application.Tests.Unit\\UM.Application.Tests.Unit.csproj",
+        "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
+        "outputPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application.Tests.Unit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application.Contract\\UM.Application.Contract.csproj": {
+                "projectPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application.Contract\\UM.Application.Contract.csproj"
+              },
+              "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application\\UM.Application.csproj": {
+                "projectPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application\\UM.Application.csproj"
+              },
+              "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Domain.Tests.Unit\\UM.Domain.Tests.Unit.csproj": {
+                "projectPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Domain.Tests.Unit\\UM.Domain.Tests.Unit.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.4.1, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application\\UM.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application\\UM.Application.csproj",
+        "projectName": "UM.Application",
+        "projectPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application\\UM.Application.csproj",
+        "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
+        "outputPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application.Contract\\UM.Application.Contract.csproj": {
+                "projectPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Application.Contract\\UM.Application.Contract.csproj"
+              },
+              "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Domain\\UM.Domain.csproj": {
+                "projectPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Domain\\UM.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Domain.Tests.Unit\\UM.Domain.Tests.Unit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Domain.Tests.Unit\\UM.Domain.Tests.Unit.csproj",
+        "projectName": "UM.Domain.Tests.Unit",
+        "projectPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Domain.Tests.Unit\\UM.Domain.Tests.Unit.csproj",
+        "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
+        "outputPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Domain.Tests.Unit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Domain\\UM.Domain.csproj": {
+                "projectPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Domain\\UM.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Domain\\UM.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Domain\\UM.Domain.csproj",
+        "projectName": "UM.Domain",
+        "projectPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Domain\\UM.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
+        "outputPath": "H:\\Development\\.NetProject\\PersonalBlog\\PrsonalBlog\\UM.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Application.Contract\bin\Debug\net6.0\UM.Application.Contract.deps.json
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Application.Contract\bin\Debug\net6.0\UM.Application.Contract.dll
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Application.Contract\bin\Debug\net6.0\UM.Application.Contract.pdb
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Application.Contract\bin\Debug\net6.0\01_Framework.dll
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Application.Contract\bin\Debug\net6.0\01_Framework.pdb
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Application.Contract\obj\Debug\net6.0\UM.Application.Contract.csproj.AssemblyReference.cache
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Application.Contract\obj\Debug\net6.0\UM.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Application.Contract\obj\Debug\net6.0\UM.Application.Contract.AssemblyInfoInputs.cache
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Application.Contract\obj\Debug\net6.0\UM.Application.Contract.AssemblyInfo.cs
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Application.Contract\obj\Debug\net6.0\UM.Application.Contract.csproj.CoreCompileInputs.cache
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Application.Contract\obj\Debug\net6.0\UM.Application.Contract.csproj.CopyComplete
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Application.Contract\obj\Debug\net6.0\UM.Application.Contract.dll
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Application.Contract\obj\Debug\net6.0\refint\UM.Application.Contract.dll
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Application.Contract\obj\Debug\net6.0\UM.Application.Contract.pdb
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Application.Contract\obj\Debug\net6.0\ref\UM.Application.Contract.dll

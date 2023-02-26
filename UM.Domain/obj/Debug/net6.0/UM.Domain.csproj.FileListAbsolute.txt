@@ -1,0 +1,12 @@
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Domain\bin\Debug\net6.0\UM.Domain.deps.json
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Domain\bin\Debug\net6.0\UM.Domain.dll
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Domain\bin\Debug\net6.0\UM.Domain.pdb
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Domain\obj\Debug\net6.0\UM.Domain.csproj.AssemblyReference.cache
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Domain\obj\Debug\net6.0\UM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Domain\obj\Debug\net6.0\UM.Domain.AssemblyInfoInputs.cache
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Domain\obj\Debug\net6.0\UM.Domain.AssemblyInfo.cs
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Domain\obj\Debug\net6.0\UM.Domain.csproj.CoreCompileInputs.cache
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Domain\obj\Debug\net6.0\UM.Domain.dll
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Domain\obj\Debug\net6.0\refint\UM.Domain.dll
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Domain\obj\Debug\net6.0\UM.Domain.pdb
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Domain\obj\Debug\net6.0\ref\UM.Domain.dll

@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7708c9de_002Df811_002D423e_002D8ebc_002Da2b68d74ce8e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Should_ConstructUserProperly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::75961C80-5503-4150-B7B8-C81CE1A0E4C9::net6.0::UM.Domain.Tests.Unit.UserManagementTests.Should_ConstructUserProperly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::75961C80-5503-4150-B7B8-C81CE1A0E4C9::net6.0::UM.Domain.Tests.Unit.UserManagementTests.Should_UpdateWithValidProperties_ShouldSucceed&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::75961C80-5503-4150-B7B8-C81CE1A0E4C9::net6.0::UM.Domain.Tests.Unit.UserManagementTests.Should_ThrowException_WhenEmailIsNull&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark9/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark9/Coords/@EntryValue">(Doc Ln 186 Col 51)</s:String>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark9/FileId/@EntryValue">A3A49750-390D-447F-BFA6-F7E14BD2FB8B/f:UserApplicationTests.cs</s:String>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark9/Owner/@EntryValue">NumberedBookmarkManager</s:String></wpf:ResourceDictionary>

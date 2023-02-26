@@ -1,0 +1,12 @@
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\01_Freamework\bin\Debug\net6.0\01_Framework.deps.json
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\01_Freamework\bin\Debug\net6.0\01_Framework.dll
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\01_Freamework\bin\Debug\net6.0\01_Framework.pdb
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\01_Freamework\obj\Debug\net6.0\01_Framework.csproj.AssemblyReference.cache
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\01_Freamework\obj\Debug\net6.0\01_Framework.GeneratedMSBuildEditorConfig.editorconfig
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\01_Freamework\obj\Debug\net6.0\01_Framework.AssemblyInfoInputs.cache
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\01_Freamework\obj\Debug\net6.0\01_Framework.AssemblyInfo.cs
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\01_Freamework\obj\Debug\net6.0\01_Framework.csproj.CoreCompileInputs.cache
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\01_Freamework\obj\Debug\net6.0\01_Framework.dll
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\01_Freamework\obj\Debug\net6.0\refint\01_Framework.dll
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\01_Freamework\obj\Debug\net6.0\01_Framework.pdb
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\01_Freamework\obj\Debug\net6.0\ref\01_Framework.dll

@@ -1,0 +1,17 @@
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Infrastructure.EFCore\bin\Debug\net6.0\UM.Infrastructure.EFCore.deps.json
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Infrastructure.EFCore\bin\Debug\net6.0\UM.Infrastructure.EFCore.runtimeconfig.json
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Infrastructure.EFCore\bin\Debug\net6.0\UM.Infrastructure.EFCore.dll
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Infrastructure.EFCore\bin\Debug\net6.0\UM.Infrastructure.EFCore.pdb
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Infrastructure.EFCore\bin\Debug\net6.0\UM.Domain.dll
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Infrastructure.EFCore\bin\Debug\net6.0\UM.Domain.pdb
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Infrastructure.EFCore\obj\Debug\net6.0\UM.Infrastructure.EFCore.csproj.AssemblyReference.cache
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Infrastructure.EFCore\obj\Debug\net6.0\UM.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Infrastructure.EFCore\obj\Debug\net6.0\UM.Infrastructure.EFCore.AssemblyInfoInputs.cache
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Infrastructure.EFCore\obj\Debug\net6.0\UM.Infrastructure.EFCore.AssemblyInfo.cs
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Infrastructure.EFCore\obj\Debug\net6.0\UM.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Infrastructure.EFCore\obj\Debug\net6.0\UM.Infrastructure.EFCore.csproj.CopyComplete
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Infrastructure.EFCore\obj\Debug\net6.0\UM.Infrastructure.EFCore.dll
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Infrastructure.EFCore\obj\Debug\net6.0\refint\UM.Infrastructure.EFCore.dll
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Infrastructure.EFCore\obj\Debug\net6.0\UM.Infrastructure.EFCore.pdb
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Infrastructure.EFCore\obj\Debug\net6.0\UM.Infrastructure.EFCore.genruntimeconfig.cache
+H:\Development\.NetProject\PersonalBlog\PrsonalBlog\UM.Infrastructure.EFCore\obj\Debug\net6.0\ref\UM.Infrastructure.EFCore.dll
